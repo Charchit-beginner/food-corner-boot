@@ -1,0 +1,67 @@
+.navbar-custom {
+    background-color: #7952b3;
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: rgba(241, 24, 24, 0.9);
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+
+.navbar-toggler-icon{
+    color: white;
+}
+.btn-outline-info{
+    color: white;
+    border-color: white;
+}
+
+
+
+/* navbar animaions */
+
+.navbar {
+    transition: top 0.5s ease;
+}
+
+.navbar-hide {
+    top: -56px;
+}
+
+
+
+/* footer */
+
+footer{
+    background:black;
+    color:white;
+}
+
+footer a {
+    color: white;
+}
+a:hover{
+    color:wheat;
+    text-decoration: none;
+}
+#footer{
+    background-color:black;
+}
+
+
+.contact{
+    margin:100px 0px 0px 0px;
+    padding: 20px;
+    
+}
+/* .alert{
+    margin-top: 100px;
+} */
